@@ -58,7 +58,6 @@ class TEXTS:
         "**⊸ Views:** {2}\n"
         "**⊸ Duration:** {3}\n"
         "**⊸ Requested By:** {4}\n\n"
-        "**❆** {5}"
     )
     SOURCE = (
         "**Support:**\n\n"
@@ -67,7 +66,6 @@ class TEXTS:
         "__» Anyone pretending to be the developer of this bot and selling the code, is a scammer.__\n\n"
         "__» If you like the projects created by my developers, help support us!.__\n"
         "__» If you want to use this music repo, please contact the bot developer.__\n\n"
-        "🎶 {0}"
     )
     STATS = (
         "**⤞ Server Stats:**\n"
@@ -83,7 +81,6 @@ class TEXTS:
         "    __Disk Usage:__ `{8}`\n"
         "    __RAM Usage:__ `{9}`\n"
         "    __Uptime:__ `{10}`\n\n"
-        "**</>** {11}"
     )
     SYSTEM = (
         "**⤞ System Info:**\n\n"
@@ -92,7 +89,6 @@ class TEXTS:
         "   __Disk Usage:__ `{2}`\n"
         "   __RAM Usage:__ `{3}`\n"
         "   __Uptime:__ `{4}`\n\n"
-        "**</>** {5}"
     )
     HELP_ADMIN = (
         "**Authorized Users Commands:**\n\n"
@@ -198,7 +194,6 @@ class TEXTS:
         "» All commands are categorized based on their usability and target users.\n"
         "» You can use these buttons below to navigate each category and get respective commands.\n"
         "» Feel free to contact us if you need any help regarding the bot.\n\n"
-        "🎶 {0}"
     )
     START_GC = (
         "Yeah, I'm alive! "
@@ -209,7 +204,6 @@ class TEXTS:
         "**Saya** {1} **, bot musik yang dapat memutar musik di Obrolan Suara.**\n"
         "**Tambahkan saya ke grup Anda dan putar musik dengan bebas!**\n\n"
         "» Jangan ragu untuk menambahkan saya, dan mencoba berbagai perintah!\n"
-        "» Nikmati musiknya dan beri tahu kami jika Anda memiliki saran untuk perbaikan.\n\n"
-        "🎶 @{2}"
+        "» Nikmati musiknya dan beri tahu kami jika Anda memiliki saran untuk perbaikan.\n\n"        
     )
     PERFORMER = "[ Spotify ]"
