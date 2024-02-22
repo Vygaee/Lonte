@@ -8,7 +8,7 @@ class TEXTS:
         "**❆** {5}"
     )
     ABOUT_USER = (
-        "**✘ Top User Info:**\n\n"
+        "**Top User Info:**\n\n"
         "**💬 Name:** {0}\n"
         "**💠 ID:** `{1}`\n"
         "**⚜️ Level:** __{2}__\n"
@@ -19,7 +19,7 @@ class TEXTS:
     BOOTED = (
         "#START\n\n"
         "**{0} is alive!**\n\n"
-        "__» Hell-Music Version:__ `{1}`\n"
+        "__» Stream Version:__ `{1}`\n"
         "__» Python Version:__ `{2}`\n"
         "__» Pyrogram Version:__ `{3}`\n"
         "__» PyTgCalls Version:__ `{4}`\n\n"
@@ -61,13 +61,13 @@ class TEXTS:
         "**❆** {5}"
     )
     SOURCE = (
-        "**Source 📦:**\n\n"
-        "**Note:** \n__» The source code is available on GitHub. You can find the link below.__\n"
-        "__» Every project available under The-HellBot are open-source and free to use and modify to your needs.__\n"
+        "**Support:**\n\n"
+        "**Note:** \n__The Support is available on Telegram. You can find the link below.__\n"
+        "__» This bot was created to make it easier for you to play music on Telegram Voice.__\n"
         "__» Anyone pretending to be the developer of this bot and selling the code, is a scammer.__\n\n"
-        "__» Please consider giving a star to the repository if you liked the project.__\n"
-        "__» Feel free to contact us if you need any help regarding the source code.__\n\n"
-        "❤️🎶 {0}"
+        "__» If you like the projects created by my developers, help support us!.__\n"
+        "__» If you want to use this music repo, please contact the bot developer.__\n\n"
+        "🎶 {0}"
     )
     STATS = (
         "**⤞ Server Stats:**\n"
@@ -198,7 +198,7 @@ class TEXTS:
         "__» All commands are categorized based on their usability and target users.__\n"
         "__» You can use these buttons below to navigate each category and get respective commands.__\n"
         "__» Feel free to contact us if you need any help regarding the bot.__\n\n"
-        "❤️🎶 {0}"
+        "🎶 {0}"
     )
     START_GC = (
         "Yeah, I'm alive! "
@@ -210,6 +210,6 @@ class TEXTS:
         "**Add me to your group and play music freely!**\n\n"
         "__» Feel free to dive in, try different commands, and have fun discovering all the possibilities!__\n"
         "__» Enjoy the music and let us know if you have any suggestions for improvement.__\n\n"
-        "❤️🎶 @{2}"
+        "🎶 @{2}"
     )
-    PERFORMER = "[ †hê Hêllẞø† ]"
+    PERFORMER = "[ Spotify ]"
