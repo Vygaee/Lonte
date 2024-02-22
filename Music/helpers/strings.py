@@ -18,7 +18,7 @@ class TEXTS:
     )
     BOOTED = (
         "#START\n\n"
-        "**{0} is alive!**\n\n"
+        "**is alive!**\n\n"
         "__» Stream Version:__ `{1}`\n"
         "__» Python Version:__ `{2}`\n"
         "__» Pyrogram Version:__ `{3}`\n"
